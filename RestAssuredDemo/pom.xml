@@ -20,6 +20,8 @@
 			<version>7.6.1</version>
 			<scope>test</scope>
 		</dependency>
+		
+		
 
 		<!-- https://mvnrepository.com/artifact/org.json/json -->
 		<dependency>
@@ -27,7 +29,13 @@
 			<artifactId>json</artifactId>
 			<version>20220924</version>
 		</dependency>
-
+		
+	<!-- https://mvnrepository.com/artifact/org.yaml/snakeyaml -->
+<dependency>
+    <groupId>org.yaml</groupId>
+    <artifactId>snakeyaml</artifactId>
+    <version>1.33</version>
+</dependency>
 
 	</dependencies>
 </project>
